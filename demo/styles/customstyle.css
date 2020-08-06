@@ -1,0 +1,11 @@
+html, body {
+  height: 96.5%;
+}
+#map {
+  height: 100%;
+}
+
+.leaflet-draw-toolbar .leaflet-draw-draw-rectangle {
+    background: url(data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20'><circle cx='5' cy='5' r='5' /></svg>) no-repeat;
+    background-color: #FFF;
+}
